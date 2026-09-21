@@ -1,6 +1,6 @@
-# Latestwise 1.0.0 RC1
+# Latestwise 1.0.0
 
-Latestwise 1.0.0 RC1 is the first public release candidate of the redesigned Windows application.
+Latestwise 1.0.0 is the first official GitHub release of the redesigned Windows application.
 
 ![Latestwise home screen](https://raw.githubusercontent.com/KSAGlory/Latestwise/main/assets/screenshots/latestwise-home-light.png)
 
@@ -23,12 +23,12 @@ Latestwise does not replace, rename, move, or delete documents. It checks only t
 ## Compatibility
 
 - Windows 11 version 22H2 or newer
-- x64 desktop systems
+- x64 and ARM64 desktop systems
 
-This is a GitHub release candidate, not a Microsoft Store package.
+This is the official GitHub release. Microsoft Store packaging and publication remain a separate future phase.
 
 ## Verification
 
 - 30 automated tests passed.
-- The x64 Release build completed with zero warnings and zero errors.
-- The public package was checked to contain no source code or debugging symbols.
+- The x64 and ARM64 Release builds completed with zero warnings and zero errors.
+- The public packages were checked to contain no source code or debugging symbols.

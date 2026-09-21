@@ -55,14 +55,14 @@ Latestwise follows the Windows appearance by default and also supports explicit 
 
 ## Download
 
-The current Windows 11 x64 release candidate is available from [GitHub Releases](https://github.com/KSAGlory/Latestwise/releases).
+The official Windows 11 release is available from [GitHub Releases](https://github.com/KSAGlory/Latestwise/releases).
 
 Latestwise is free to use as a compiled application. Its source code remains private and proprietary. This public repository contains only reviewed product information, support documentation, presentation assets, and official compiled releases.
 
 ## Requirements
 
 - Windows 11 version 22H2 or newer
-- x64 desktop system
+- x64 or ARM64 desktop system
 - Local access to the documents and folders you choose to check
 
 ## Project information
