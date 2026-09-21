@@ -1,66 +1,75 @@
 <p align="center">
-  <img src="assets/logo.svg" width="96" height="96" alt="KSA Latest Copy logo">
+  <img src="assets/logo.svg" width="96" height="96" alt="Latestwise logo">
 </p>
 
-<h1 align="center">KSA Latest Copy</h1>
+<h1 align="center">Latestwise</h1>
 
 <p align="center">
-  A privacy-focused Windows utility that checks approved folders for newer versions of Office documents and PDFs.
+  Check approved folders for newer copies of Office documents and PDFs, entirely on your PC.
 </p>
 
 <p align="center">
-  <strong>Windows MVP complete. Microsoft Store release preparation is in progress.</strong>
+  <strong>Private by design. Clear about uncertainty. Safe with your files.</strong>
 </p>
 
-![KSA Latest Copy home screen in light mode](assets/ksa-latest-copy-home-light.png)
+![Latestwise home screen in light mode](assets/screenshots/latestwise-home-light.png)
 
-## The problem it solves
+## Never send the wrong version again
 
-Office folders often contain files named `Report Final.docx`, `Report Final 2.docx`, and `Report Final New.docx`. Dates, filenames, and file sizes alone can make it difficult to know which document should be sent.
+Folders often contain files such as `Report Final.docx`, `Report Final 2.docx`, and `Report Final New.docx`. Filenames and modified dates alone do not always reveal which copy should be used.
 
-KSA Latest Copy checks a selected document against folders approved by the user. It finds related files, compares local evidence, and explains whether a newer copy may exist. When the evidence is incomplete or conflicting, the application says so clearly instead of guessing.
+Latestwise checks a selected document against folders you approve. It examines local evidence and explains whether a newer or closely related copy may exist. When the evidence is incomplete or conflicting, Latestwise says so instead of guessing.
 
 ## How it works
 
-1. Approve the folders the application may check.
+1. Approve the folders Latestwise may check.
 2. Select or drop a DOCX, XLSX, PPTX, or PDF document.
-3. Review related copies and the evidence used for comparison.
-4. Open the recommended file or locate any result in File Explorer.
+3. Review possible copies and the evidence used for comparison.
+4. Open the appropriate document or locate it in File Explorer.
 
-The application never replaces, renames, moves, or deletes documents.
+Latestwise never replaces, renames, moves, or deletes your documents.
 
-## Comparison results
+## Evidence you can understand
 
-![KSA Latest Copy document comparison result](assets/ksa-latest-copy-comparison-light.png)
+![Latestwise comparison result](assets/screenshots/latestwise-comparison-light.png)
 
-The comparison workflow combines local document content, structure, filename similarity, file size, and modification information. Results include a written status and supporting evidence, so meaning never depends on color alone.
+The comparison workflow considers bounded local content, document structure, fingerprints, filename relationships, file size, and modification information. Results include a written explanation, so meaning never depends on color alone.
 
-## Privacy by design
+## Private by design
 
 - No account is required.
 - Documents are not uploaded.
-- Only folders selected by the user are checked.
+- Only folders approved by the user are checked.
 - No advertising or usage analytics are included.
 - No background scanning takes place.
-- Online-only cloud files are not downloaded without user action.
+- Online-only cloud files are not downloaded automatically.
+- Document changes are never made by the application.
 
 ## Light and dark appearance
 
-![KSA Latest Copy home screen in dark mode](assets/ksa-latest-copy-home-dark.png)
+![Latestwise home screen in dark mode](assets/screenshots/latestwise-home-dark.png)
 
-KSA Latest Copy follows the Windows appearance by default and also supports an explicit light or dark preference.
+Latestwise follows the Windows appearance by default and also supports explicit light and dark preferences.
 
-## Technology
+![Latestwise approved folders screen](assets/screenshots/latestwise-folders-dark.png)
 
-KSA Latest Copy is built for Windows 11 using C#, .NET 10, WinUI 3, and MSIX packaging. Document analysis runs locally with bounded extraction and deterministic comparison rules.
+## Download
 
-## Availability
+The current Windows 11 x64 release candidate is available from [GitHub Releases](https://github.com/KSAGlory/Latestwise/releases).
 
-The application is planned as a free Microsoft Store download. The source code is private and proprietary, so this repository contains only reviewed product information and presentation material.
+Latestwise is free to use as a compiled application. Its source code remains private and proprietary. This public repository contains only reviewed product information, support documentation, presentation assets, and official compiled releases.
+
+## Requirements
+
+- Windows 11 version 22H2 or newer
+- x64 desktop system
+- Local access to the documents and folders you choose to check
 
 ## Project information
 
-- **Author:** [KSAGlory](https://github.com/KSAGlory)
-- **Community:** [discord.gg/ksahub](https://discord.gg/ksahub)
+- Author: KSAGlory
+- Website: https://www.krynstar.com/
+- GitHub: https://github.com/KSAGlory
+- Discord: https://discord.com/invite/ksahub
 
-Copyright © 2026 KSAGlory. All rights reserved. No permission is granted to copy, modify, or redistribute the branding or presentation assets in this repository.
+Copyright © 2026 KSAGlory. All rights reserved.

@@ -1,0 +1,54 @@
+name: Bug report
+description: Report a reproducible problem with Latestwise
+title: "[Bug] "
+labels:
+  - bug
+body:
+  - type: markdown
+    attributes:
+      value: Thanks for reporting a problem. Do not upload private documents or include confidential filenames, paths, passwords, or tokens.
+  - type: input
+    id: version
+    attributes:
+      label: Latestwise version
+      placeholder: 1.0.0-rc.1
+    validations:
+      required: true
+  - type: input
+    id: windows
+    attributes:
+      label: Windows version
+      placeholder: Windows 11 25H2
+    validations:
+      required: true
+  - type: dropdown
+    id: document_type
+    attributes:
+      label: Document type
+      options:
+        - DOCX
+        - XLSX
+        - PPTX
+        - PDF
+        - Other
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to reproduce
+      description: Use generic filenames and paths if the real values contain private information.
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: Expected behavior
+    validations:
+      required: true
+  - type: textarea
+    id: actual
+    attributes:
+      label: Actual behavior
+    validations:
+      required: true

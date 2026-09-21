@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Security report
+    url: https://github.com/KSAGlory/Latestwise/security/advisories/new
+    about: Report potential vulnerabilities privately through GitHub.
+  - name: KSAGlory community
+    url: https://discord.com/invite/ksahub
+    about: Join the community for general discussion.

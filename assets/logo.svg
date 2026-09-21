@@ -1,9 +1,10 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1024" viewBox="0 0 1024 1024" role="img" aria-labelledby="title desc">
-  <title id="title">KSA Latest Copy Document check stack transparent icon</title>
-  <desc id="desc">Approved Document check stack logo with no background tile.</desc>
-  <path d="M274 164h324c43 0 78 35 78 78v386c0 43-35 78-78 78H274c-43 0-78-35-78-78V242c0-43 35-78 78-78Z" fill="#ECE8F3" stroke="#487A6B" stroke-width="24"/>
-  <path d="M386 248h324c43 0 78 35 78 78v386c0 43-35 78-78 78H386c-43 0-78-35-78-78V326c0-43 35-78 78-78Z" fill="#FBFBF8" stroke="#487A6B" stroke-width="24"/>
+  <title id="title">Latestwise Document check stack logo</title>
+  <desc id="desc">Two overlapping document sheets with a clear check accent on a botanical green tile.</desc>
+  <rect width="1024" height="1024" rx="214" fill="#487A6B"/>
+  <path d="M274 164h324c43 0 78 35 78 78v386c0 43-35 78-78 78H274c-43 0-78-35-78-78V242c0-43 35-78 78-78Z" fill="#ECE8F3"/>
+  <path d="M386 248h324c43 0 78 35 78 78v386c0 43-35 78-78 78H386c-43 0-78-35-78-78V326c0-43 35-78 78-78Z" fill="#FBFBF8"/>
   <path d="M629 248h81c43 0 78 35 78 78v81h-81c-43 0-78-35-78-78v-81Z" fill="#DBEEE7"/>
-  <circle cx="719" cy="719" r="112" fill="#487A6B"/>
-  <path d="m665 720 35 36 78-88" fill="none" stroke="#FBFBF8" stroke-linecap="round" stroke-linejoin="round" stroke-width="34"/>
+  <circle cx="719" cy="719" r="112" fill="#DBEEE7"/>
+  <path d="m665 720 35 36 78-88" fill="none" stroke="#285448" stroke-linecap="round" stroke-linejoin="round" stroke-width="34"/>
 </svg>

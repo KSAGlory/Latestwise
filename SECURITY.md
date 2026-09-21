@@ -1,5 +1,12 @@
 # Security Policy
 
-Please report potential security or privacy issues through GitHub's private vulnerability reporting. Do not post vulnerability details in a public issue or community channel.
+Security fixes are applied to the latest official Latestwise release.
 
-Include the affected version, reproduction steps, and the expected impact. Reports will be reviewed before public disclosure.
+Do not disclose a suspected vulnerability through a public GitHub issue. Use GitHub private vulnerability reporting and include:
+
+- the affected version;
+- a clear description;
+- minimal reproduction steps;
+- the potential impact.
+
+Do not include real credentials, private documents, confidential filenames, or unrelated personal information. Please allow reasonable time for investigation and correction before public disclosure.
