@@ -65,9 +65,13 @@ Latestwise is free to use as a compiled application. Its source code remains pri
 - x64 or ARM64 desktop system
 - Local access to the documents and folders you choose to check
 
-## Author and community
+## Author and Community
 
 - Author: **KSAGlory**
 - Community: [discord.gg/ksahub](https://discord.gg/ksahub)
+
+## License
+
+Latestwise is proprietary software. See the [product notice](LICENSE.md) for the permitted use and restrictions.
 
 Copyright © 2026 KSAGlory. All rights reserved.
