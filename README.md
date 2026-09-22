@@ -65,6 +65,8 @@ Latestwise is free to use as a compiled application. Its source code remains pri
 - x64 or ARM64 desktop system
 - Local access to the documents and folders you choose to check
 
+**ARM64 notice:** The ARM64 build is included but has not been validated on physical ARM64 hardware. x64 is the officially tested configuration.
+
 ## Author and Community
 
 - Author: **KSAGlory**

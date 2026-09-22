@@ -25,6 +25,8 @@ Latestwise does not replace, rename, move, or delete documents. It checks only t
 - Windows 11 version 22H2 or newer
 - x64 and ARM64 desktop systems
 
+**ARM64 notice:** The ARM64 build is included but has not been validated on physical ARM64 hardware. x64 is the officially tested configuration.
+
 This is the official GitHub release. Microsoft Store packaging and publication remain a separate future phase.
 
 ## Verification
