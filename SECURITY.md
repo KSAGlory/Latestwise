@@ -1,12 +1,29 @@
 # Security policy
 
-Security fixes are applied to the latest official Latestwise release.
+## Supported version
 
-Do not disclose a suspected vulnerability through a public GitHub issue. Use [private vulnerability reporting](https://github.com/KSAGlory/Latestwise/security/advisories/new) and include:
+Security fixes target the latest official release. Include the affected version or commit when reporting a problem.
 
-- The affected version
-- A clear description
+## Reporting a vulnerability
+
+Use [GitHub private vulnerability reporting](https://github.com/KSAGlory/Latestwise/security/advisories/new). Do not disclose an unreported vulnerability in a public issue or pull request.
+
+Include:
+
+- The affected version or commit
+- A clear description of the problem
 - Minimal reproduction steps
 - The potential impact
+- A suggested fix, if you have one
 
-Do not include real credentials, private documents, confidential filenames, or unrelated personal information. Please allow reasonable time for investigation and correction before public disclosure.
+Do not include passwords, tokens, private documents, or unrelated personal information. Use a non-confidential example whenever possible.
+
+## Project-specific guidance
+
+Latestwise compares documents locally within user-approved folders. Reports about access outside that scope, unsafe document parsing, unintended modification, or exposure of document information are in scope.
+
+## Disclosure
+
+Allow time for investigation and a fix before publishing technical details. The maintainer will coordinate disclosure through the private report.
+
+For installation help, usage questions, and ordinary bug reports, use [GitHub Issues](https://github.com/KSAGlory/Latestwise/issues).

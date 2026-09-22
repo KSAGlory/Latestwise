@@ -40,4 +40,4 @@ Remove approved folders from the application to stop them from being checked. Cl
 
 ## Contact
 
-For privacy questions, open an issue in the [Latestwise repository](https://github.com/KSAGlory/Latestwise/issues) or contact the KSAGlory community at [discord.gg/ksahub](https://discord.gg/ksahub).
+Ask general privacy questions through [GitHub Issues](https://github.com/KSAGlory/Latestwise/issues). Do not include personal data or confidential files. Report suspected vulnerabilities privately using [SECURITY.md](SECURITY.md).

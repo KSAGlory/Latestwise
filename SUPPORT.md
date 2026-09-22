@@ -1,25 +1,28 @@
-# Latestwise support
+# Support
 
-## Before opening an issue
+## Before requesting help
 
-Confirm that you are using the latest official release and that the selected document is a supported DOCX, XLSX, PPTX, or PDF file.
+Confirm that you are using the latest official release and a supported DOCX, XLSX, PPTX, or PDF document.
 
-## Product issues
+## Questions and bug reports
 
-Open a [GitHub issue](https://github.com/KSAGlory/Latestwise/issues) and include:
+Use [GitHub Issues](https://github.com/KSAGlory/Latestwise/issues) for installation help, usage questions, and reproducible problems. Search existing issues first and include:
 
-- The Latestwise version
-- Your Windows version
-- The document type involved
-- Clear reproduction steps
+- The application or plugin version, or the commit you tested
+- Your operating system and version
+- The document type and whether the issue occurs with a non-confidential sample
+- Steps to reproduce the problem
 - What you expected and what happened instead
+- Relevant screenshots or logs with private information removed
 
-Use generic filenames and paths when possible. Do not upload private documents, passwords, tokens, confidential filenames, or personal information.
+## Feature requests
 
-## Community
+Describe the problem you want to solve and how the proposed change would help. Keep each request focused on one improvement.
 
-For general discussion, visit [discord.gg/ksahub](https://discord.gg/ksahub).
+## Privacy
+
+Do not upload passwords, tokens, private documents, confidential paths, or unrelated personal information. Use a small, non-confidential example when possible.
 
 ## Security reports
 
-Potential vulnerabilities must not be posted publicly. Follow [SECURITY.md](SECURITY.md).
+Do not post undisclosed vulnerabilities in public issues. Follow [SECURITY.md](SECURITY.md) for private reporting.
