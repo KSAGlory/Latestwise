@@ -65,11 +65,9 @@ Latestwise is free to use as a compiled application. Its source code remains pri
 - x64 or ARM64 desktop system
 - Local access to the documents and folders you choose to check
 
-## Project information
+## Author and community
 
-- Author: KSAGlory
-- Website: https://www.krynstar.com/
-- GitHub: https://github.com/KSAGlory
-- Discord: https://discord.com/invite/ksahub
+- Author: **KSAGlory**
+- Community: [discord.gg/ksahub](https://discord.gg/ksahub)
 
 Copyright © 2026 KSAGlory. All rights reserved.
