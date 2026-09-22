@@ -1,4 +1,4 @@
-# Latestwise Privacy Policy
+# Latestwise privacy policy
 
 Last updated: September 21, 2026
 
@@ -22,13 +22,13 @@ Document contents and comparison results are not uploaded by the application.
 
 Latestwise does not:
 
-- require an online account;
-- upload documents or document information;
-- include advertising or analytics;
-- perform background folder scanning;
-- access folders you have not approved;
-- automatically download online-only cloud files;
-- replace, rename, move, or delete documents.
+- Require an online account
+- Upload documents or document information
+- Include advertising or analytics
+- Perform background folder scanning
+- Access folders you have not approved
+- Automatically download online-only cloud files
+- Replace, rename, move, or delete documents
 
 ## Network access
 
@@ -40,4 +40,4 @@ Remove approved folders from the application to stop them from being checked. Cl
 
 ## Contact
 
-For privacy questions, open an issue in the [Latestwise repository](https://github.com/KSAGlory/Latestwise/issues) or contact the KSAGlory community at https://discord.com/invite/ksahub.
+For privacy questions, open an issue in the [Latestwise repository](https://github.com/KSAGlory/Latestwise/issues) or contact the KSAGlory community at [discord.gg/ksahub](https://discord.gg/ksahub).

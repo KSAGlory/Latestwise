@@ -1,4 +1,4 @@
-# Latestwise Support
+# Latestwise support
 
 ## Before opening an issue
 
@@ -8,17 +8,17 @@ Confirm that you are using the latest official release and that the selected doc
 
 Open a [GitHub issue](https://github.com/KSAGlory/Latestwise/issues) and include:
 
-- the Latestwise version;
-- your Windows version;
-- the document type involved;
-- clear reproduction steps;
-- what you expected and what happened instead.
+- The Latestwise version
+- Your Windows version
+- The document type involved
+- Clear reproduction steps
+- What you expected and what happened instead
 
 Use generic filenames and paths when possible. Do not upload private documents, passwords, tokens, confidential filenames, or personal information.
 
 ## Community
 
-For general discussion, visit https://discord.com/invite/ksahub.
+For general discussion, visit [discord.gg/ksahub](https://discord.gg/ksahub).
 
 ## Security reports
 
