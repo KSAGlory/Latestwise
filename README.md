@@ -72,7 +72,7 @@ Latestwise is free to use as a compiled application. Its source code remains pri
 - Author: **KSAGlory**
 - Community: [discord.gg/ksahub](https://discord.gg/ksahub)
 
-## License
+## Licens
 
 Latestwise is proprietary software. See the [product notice](LICENSE.md) for the permitted use and restrictions.
 
