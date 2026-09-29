@@ -57,7 +57,15 @@ Latestwise follows the Windows appearance by default and also supports explicit 
 
 The official Windows 11 release is available from [GitHub Releases](https://github.com/KSAGlory/Latestwise/releases).
 
-Latestwise is free to use as a compiled application. Its source code remains private and proprietary. This public repository contains only reviewed product information, support documentation, presentation assets, and official compiled releases.
+Latestwise is free to use as a compiled application. Its source code remains private and proprietary. This public repository contains product information, support documentation, presentation assets, official compiled releases, and a separate checksum verification tool.
+
+To check a downloaded installer against the `.sha256` file from the same release, place both files in the repository root and run this command from there:
+
+```powershell
+dotnet run --project tools/VerifyDownload -- "Latestwise-v1.0.0-Setup.exe" "Latestwise-v1.0.0-Setup.exe.sha256"
+```
+
+This optional tool requires the .NET 10 SDK. It is separate from Latestwise and does not include the application's source code.
 
 ## Requirements
 
