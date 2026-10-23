@@ -75,11 +75,6 @@ This optional tool requires the .NET 10 SDK. It is separate from Latestwise and 
 
 **ARM64 notice:** The ARM64 build is included but has not been validated on physical ARM64 hardware. x64 is the officially tested configuration.
 
-## Author and Community
-
-- Author: **KSAGlory**
-- Community: [discord.gg/ksahub](https://discord.gg/ksahub)
-
 ## License
 
 Latestwise is proprietary software. See the [product notice](LICENSE.md) for the permitted use and restrictions.
